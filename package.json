@@ -1,0 +1,24 @@
+{
+  "name": "legendary-workout",
+  "version": "1.0.0",
+  "description": "Given an array of exercises, either choose from a pre-made workout, make your own, or have a randomly generated workout. Intent is to have this as a single-page application. This version will include only body weight exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacticalbison/legendary-workout.git"
+  },
+  "keywords": [
+    "workout",
+    "fitness",
+    "choose-your-own-adventure"
+  ],
+  "author": "Tim Brandau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacticalbison/legendary-workout/issues"
+  },
+  "homepage": "https://github.com/tacticalbison/legendary-workout#readme"
+}
